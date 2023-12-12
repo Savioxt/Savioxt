@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Sou estudante de graduação em Tecnologias da Informação.<br>Com conhecimentos em IoT, LInux, C#, Python, Banco de Dados e Cyber security.<br>Sou apaixonado  por Tecnologia desde dos meus 14 anos.
+Sou estudante de graduação em Tecnologias da Informação.<br>Com conhecimentos em IoT, LInux, C#, Python, Banco de Dados, Redes e Cyber security.<br>Sou apaixonado  por Tecnologia desde dos meus 14 anos.
 
 
 # 💻 Tech Stack:
